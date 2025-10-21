@@ -1,0 +1,5 @@
+{
+  "name": "Chatbot de FAQ",
+  "description": "Uma ferramenta para criar e simular um chatbot de perguntas frequentes para universidades. Adicione suas perguntas e respostas e teste a lógica do bot em tempo real.",
+  "requestFramePermissions": []
+}
